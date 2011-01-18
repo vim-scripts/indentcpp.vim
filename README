@@ -1,3 +1,3 @@
-This is a mirror of http://www.vim.org/scripts/script.php?script_id=2636
+This script has been renamed to google.vim.
 
-Inspired by Google C++ Coding Style (http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)
+http://github.com/vim-scripts/google.vim
